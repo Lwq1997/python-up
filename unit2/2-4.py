@@ -28,5 +28,5 @@ print('出现次数前三的是：', p[:3])
 使用Counter
 '''
 c = Counter(data)
-print('c:',c)
-print('出现次数前三的是：',c.most_common(3))
+print('c:', c)
+print('出现次数前三的是：', c.most_common(3))
